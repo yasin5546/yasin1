@@ -1,0 +1,33 @@
+/*tablet layout*/
+@media only screen and (min-width:220px) and (max-width:991px){
+#header_area {background: #000;padding:  0;}
+.portfoilio_child1 {margin-left: 3px;}
+.portfolio {margin: 0 5px;}  
+.work_area h1 {font-size: 27px;}
+.recent1 {margin: 10px 8px;}
+.recent2 {margin: 10px 8px;}
+.footer {width: 30%;}
+.child_footer4 {width: 100%;}
+.child1 h4 {font-size: 12px;}
+.child2 h4 {font-size: 12px;}
+}
+
+
+
+/*mobile layout*/
+@media only screen and (min-width:220px) and (max-width:480px){
+
+.logo {max-width: 205px;margin: 0 auto;float: none;}
+.social_area {float: none;width: 290px;margin: 0 auto;margin-top: 0;}   
+.portfolio {width: 97%;float: none;margin: 5px;}    
+.work_area h1{font-size: 20px;}
+.recent1 {width: 82%;float: none;margin: 10px auto;}
+.recent2 {width: 82%;float: none;margin: 10px auto;}
+.footer {width: 95%;margin: 5px 5px;}
+.child_footer4 input[type="Submit"] {width: 70px;}
+.child1 h4 {float: none;width: 95%;overflow: hidden;text-align: center;}
+.child2 h4 {float: none;width: 95%;overflow: hidden;text-align: center;}
+
+}
+
+
